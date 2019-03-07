@@ -27,3 +27,16 @@ body::after {
     content: '';
     background-image: radial-gradient(rgba(177, 133, 187, 0) 10%, rgba(177, 133, 187, 0.7) 100%);
 }
+
+#logo {
+    width: 30%;
+    height: auto;
+}
+
+#centering {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: auto;
+    vertical-align: 50%; 
+    font-size: 300%;
+}
