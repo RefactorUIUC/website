@@ -6453,7 +6453,7 @@ font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
     background-color: #000;
 }
 
-.staffpic{
+#staffpic{
 
     width: 150px;
     height: 150px;
@@ -6461,11 +6461,11 @@ font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
 
 }
 
-.name{
+#name{
 font-size: 18px;
 }
 
-.title{
+#title{
     font-size: 14px;
 
 }
