@@ -6452,3 +6452,9 @@ font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
 #about{
     background-color: #000;
 }
+
+.staffpic{
+    width:150px;
+    height: 150px;
+    border-radius: 150px;
+}
