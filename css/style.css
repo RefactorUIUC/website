@@ -360,7 +360,7 @@ img:not([draggable]), embed, object, video{
 body{
     color: #111;
     font-size: 14px;
-    font-family: "Open Sans", arial, sans-serif;
+    font-family: "co_headline_corpregular", arial, sans-serif;
     line-height: 1.6;    
     -webkit-font-smoothing: antialiased;
 }
@@ -378,6 +378,7 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 1.3em;
     line-height: 1.4;
     font-weight: 400;
+    font-family: "co_headline_corpbold", arial, sans-serif;
    
 }
 h1{
@@ -444,13 +445,11 @@ hr.black{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: Dosis, arial, sans-serif;
-    text-transform: uppercase;
+    font-family: "co_headline_corpbold", arial, sans-serif;    text-transform: uppercase;
     letter-spacing: 0.2em;
 }
 .serif{
-    font-family: "Times New Roman", Times, serif;
-    font-style: italic;
+font-family: "co_headline_corpregular", arial, sans-serif;    font-style: italic;
     font-weight: normal;
 }
 .normal{
@@ -1482,8 +1481,7 @@ a.bg-video-button-muted{
 }
 .logo,
 a.logo:hover{
-    font-family: Dosis, arial, sans-serif;
-    font-size: 18px;
+font-family: "co_headline_corpregular", arial, sans-serif;    font-size: 18px;
     font-weight: 400 !important;
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -3722,8 +3720,7 @@ a.logo:hover{
     background: none;
     border: none;
     text-align: center;
-    font-family: "Open Sans", arial, sans-serif;
-    font-size: 18px;
+font-family: "co_headline_corpregular", arial, sans-serif;    font-size: 18px;
     font-style: normal;
     font-weight: 300;
     letter-spacing: 0;
@@ -4399,8 +4396,8 @@ a.blog-item-more:hover{
 
 .pagination{
     font-size: 13px;
-    font-family: "Open Sans", arial, sans-serif;
-}
+font-family: "co_headline_corpregular", arial, sans-serif;}
+
 .pagination a{
     display: inline-block;
     min-width: 30px;
@@ -4476,8 +4473,7 @@ a.blog-item-more:hover{
 .comment-item-data{
     margin: 0 0 5px;
     text-transform: uppercase;
-    font-family: "Open Sans", Arial, Helvetica, sans-serif;
-    font-size: 12px;
+font-family: "co_headline_corpbold", arial, sans-serif;    font-size: 12px;
     color: #777;
 }
 .comment-item-data a{
@@ -4788,8 +4784,7 @@ table.shopping-cart-table tr td{
     
 }
 .pricing-num sup{
-    font-family: "Open Sans", Arial, Helvetica, sans-serif;
-    font-size: 18px;
+font-family: "co_headline_corpbold", arial, sans-serif;    font-size: 18px;
     font-weight: 400;
     position: relative;
     top: -20px;
@@ -5284,8 +5279,7 @@ section:hover .small-item-carousel .owl-next{
     position: absolute;
     top: 50%;
     right: 10px;
-    font-family: 'FontAwesome';
-    speak: none;
+font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -5363,7 +5357,7 @@ section:hover .small-item-carousel .owl-next{
     position: absolute;
     top: 50%;
     right: 10px;
-    font-family: 'FontAwesome';
+font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
     speak: none;
     font-style: normal;
     font-weight: normal;
