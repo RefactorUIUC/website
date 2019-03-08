@@ -6454,7 +6454,18 @@ font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
 }
 
 .staffpic{
-    width:150px;
+
+    width: 150px;
     height: 150px;
     border-radius: 150px;
+
+}
+
+.name{
+font-size: 18px;
+}
+
+.title{
+    font-size: 14px;
+
 }
