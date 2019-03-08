@@ -25,7 +25,7 @@ body::after {
     top: 0;
     left: 0;
     content: '';
-    background-image: radial-gradient(rgba(177, 133, 187, 0) 10%, rgba(177, 133, 187, 0.7) 100%);
+    background-image: radial-gradient(rgba(177, 133, 187, 0) 10%, rgba(177, 133, 187, 0.4) 100%);
 }
 
 #logo {

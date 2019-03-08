@@ -2418,7 +2418,7 @@ font-family: "co_headline_corpregular", arial, sans-serif;    font-size: 18px;
     background-color: #f4f4f4;
 }
 .bg-gray-lighter{
-    background-color: #f8f8f8;
+    background-color: #E91D63;
 }
 .bg-dark,
 .bg-dark-lighter,
@@ -6446,4 +6446,9 @@ font-family: "co_headline_corpregular", arial, sans-serif;    speak: none;
     .multi-columns-row .col-lg-3:nth-child(4n + 5) { clear: left; }
     .multi-columns-row .col-lg-2:nth-child(6n + 7) { clear: left; }
     .multi-columns-row .col-lg-1:nth-child(12n + 13) { clear: left; }
+}
+
+
+#about{
+    background-color: #000;
 }
